@@ -1,4 +1,4 @@
-# To-Do List App
+# Weather App
 
 Welcome to the Weather App Sample! Even the focus here was **NOT for UI/UX** This app is a simple yet powerful. Developed using Flutter with some advanced code skills.
 
